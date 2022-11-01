@@ -11,4 +11,7 @@ for num in range(1,T+1):
     print("#"+str(num),count)
 
 # 출처 SW Expert Academy
-#https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYLnMQT6vPADFATf
+# https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYLnMQT6vPADFATf
+
+#문제 해결 방식
+# https://jinudmjournal.tistory.com/4
