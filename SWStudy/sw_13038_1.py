@@ -8,8 +8,9 @@ for t in range(1,tc+1):
     for a_i in range(len(a_list)):
         if a_list[a_i]==1:
             total,total_count = 0 , 0
-            total+=int(n / a_count)*7
+
             if a_count<n:
+                total += int(n / a_count) * 7
                 total_count=a_count*7
             #total은 총 일 수
             #total_count는 남은 n일 수
