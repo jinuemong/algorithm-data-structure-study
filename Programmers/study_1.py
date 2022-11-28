@@ -1,3 +1,6 @@
+# 출처 : https://school.programmers.co.kr/learn/courses/30/lessons/81302
+
+
 def findP(places_list, x, y, dx, dy):
     if places_list[y + dy][x + dx] == 'P':
         if dx + dy == 1:  # 단순 우,하 확인 (0,1) or (1,0)
