@@ -25,3 +25,5 @@ if result == "NO":
 else:
     for i in result:
         print(i)
+
+
