@@ -45,3 +45,4 @@ for _ in range(t):
         union(f1, f2)
 
         print(number[find(f1)])
+
