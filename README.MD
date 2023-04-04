@@ -1,3 +1,6 @@
-# Coding Test Study 자료
-- 코팅 테스트를 준비하면서 푼 알고리즘 & 자료구조 문제들
-- 각 문제 별로 출처와 문제 해결 방식 블로그 글 링크 
+# IOS-Study
+[Study] : Swift, IOS Study File
+
+-----------------------------
+
+기록 : https://www.notion.so/a7195fcd149048ee91d4951a5904ef55
