@@ -1,5 +1,5 @@
-# IOS-Study
-[Study] : Swift, IOS Study File
+# CodingTestStudy
+[Study] : Coding test, algorithm, data structure Study Workbook
 
 -----------------------------
 
