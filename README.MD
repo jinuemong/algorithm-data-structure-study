@@ -1,5 +1,5 @@
 # CodingTestStudy
-[Study] : Coding test, algorithm, data structure Study Workbook
+[Study] : Algorithm & Data Structure Problem Solving Workbook
 
 -----------------------------
 
