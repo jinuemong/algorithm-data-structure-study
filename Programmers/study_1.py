@@ -59,3 +59,4 @@ def solution(places):
                         break
         answer.append(current_answer)
     return answer
+
