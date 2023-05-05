@@ -11,7 +11,7 @@ class Node:
 def pre_order(node):
     print(node.data,end ='')
     if node.left !='.':
-        pre_order(tree[node. left])
+        pre_order(tree[node.left])
     if node.right != '.':
         pre_order(tree[node.right])
 
