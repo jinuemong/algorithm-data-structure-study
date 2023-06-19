@@ -29,4 +29,3 @@ def BFS_with_adj_list(graph,root):
     return visited
 
 print(BFS_with_adj_list(graph_list, root_node))
-
