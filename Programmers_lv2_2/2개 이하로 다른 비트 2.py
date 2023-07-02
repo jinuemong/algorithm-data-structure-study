@@ -11,7 +11,7 @@
 # 비트 연산으로 풀면 시간 초과 발생
 # 숫자가 짝수인 경우 항상 마지막 비트는 0이므로, 하나의 비트 차이가 나는 경우는 +1 이다
 # 홀수인 경우 가장 뒤의 0을 1로 바꾸고 그 다음 비트를 0으로 바꾼 경우가 답이다
-# 즉 앞자리가 모두 같고, 뒤의 2자리가 다른 값이 최소의 경우이며, 1001의 경우 1010이 답이 된다.
+# 즉 0이 나타난 부분을 1로 바꾸고, 그 뒤를 0으로 바꾸면 가장 작은 수를 찾게 된다.
 # 규칙을 적용해서 문제를 푼다
 def solution(numbers):
     answer = []
@@ -19,18 +19,18 @@ def solution(numbers):
         if number%2 == 0:
             answer.append(number+1)
         else:
-            answer.append(re_data(number))
+            answer.append(re_data(number,""))
     return answer
 
-def re_data(data):
-    answer = ""
+def re_data(data,answer):
     while data>0:
-        answer = answer+data%2
+        answer = answer+str(data%2)
         data//=2
+    answer+="0"
     idx = answer.index("0")
+    answer = answer[0:idx - 1] + "01" + answer[idx + 1:]
+    return int(answer[::-1],2)
 
-    return int(answer,2)
 
 
-
-print(solution([i for i in range(10000,100000)]))
+print(solution([2,7]))
