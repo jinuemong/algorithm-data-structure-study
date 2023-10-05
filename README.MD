@@ -69,6 +69,7 @@
 - [택배상자 3.py](Programmers_lv2_3%2F%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90%203.py)
 - [메뉴 리뉴얼.py](Programmers_lv2_4%2F%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.py)
 - [무인도 여행 3.py](Programmers_lv2_4%2F%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89%203.py)
+- [방금그곡 2.py](Programmers_lv2_4%2F%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1%202.py)
 
 #### LV1
 - [2016년.py](Programmers%2F2016%EB%85%84.py)
@@ -105,6 +106,7 @@
 - [제곱수 찾기 2.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%2C5%2F%EC%A0%9C%EA%B3%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0%202.py)
 - [고층 건물 2.py](%EB%B0%B1%EC%A4%80%20%EC%8B%A4%EB%B2%84%202%2C3%2F%EA%B3%A0%EC%B8%B5%20%EA%B1%B4%EB%AC%BC%202.py)
 - [배 2.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%2C5%2F%EB%B0%B0%202.py)
+- [줄어드는 수_2.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%2C5%2F%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%20%EC%88%98_2.py)
 - 
 #### 골드 [3-2]
 - [ACM Craft 3.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%203%2FACM%20Craft%203.py)
