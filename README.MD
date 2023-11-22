@@ -112,6 +112,7 @@
 - [주사위.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%2C5%2F%EC%A3%BC%EC%82%AC%EC%9C%84.py)
 - [Contact.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%2C5%2FContact.py)
 - [Fly me to the Alpha Centauri 2.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%2C5%2FFly%20me%20to%20the%20Alpha%20Centauri%202.py)
+- [가르침 4.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%2C5%2F%EA%B0%80%EB%A5%B4%EC%B9%A8%204.py)
 #### 골드 [3-2]
 - [ACM Craft 3.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%203%2FACM%20Craft%203.py)
 - [프렉탈 평면 2.py](%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%203%2F%ED%94%84%EB%A0%89%ED%83%88%20%ED%8F%89%EB%A9%B4%202.py)
