@@ -1,4 +1,3 @@
-
 # Minimum Spanning Tree : 최소 신장 트리
 # 사용된 간선들의 가중치 합이 최소인 트리
 
@@ -42,43 +41,42 @@
 # 모든 간선을 가중치 오름차순으로 ㅈ어렬
 # 가중치가 낮은 간선부터 순회
 # 이 간선이 추가된다면 사이클이 발생하는지 확인
-    # 사이클 발생 -> continue
-    # else -> 추가
+# 사이클 발생 -> continue
+# else -> 추가
 # 모든 간선을 돌고 나면 추가된 간선들이 최소 신장 트리
 
 # 사이클 확인
-# union find 활용
+# union find 활용 -> Kruskal MST 알고리즘
 
 import sys
 input = sys.stdin.readline
 
-v,e = map(int,input().split())
-
+v, e = map(int, input().split())
 edges = []
 for _ in range(e):
-    a,b,c = map(int,input().split())
-    edges.append((a,b,c))
-edges.sort(key = lambda  x: x[2]) # 간선이 작은 순
-
-n, m = map(int,input().split())
-
-parent = [ [i] for i in range(n+1)]
+    a, b, c = map(int, input().split())
+    edges.append((a, b, c))
+edges.sort(key=lambda x: x[2])  # 간선이 작은 순
+parent = [i for i in range(v + 1)] #부모를 기준으로 union
 
 def find(x):
-    if x == parent[x]: # 자기 자신이 루트 노드면 반환
-        return x
-    p = find(parent[x]) # x의 루트 노드 찾기
-    parent[x] = p # 부모 테이블을 갱신
-    return parent[x] # x의 루트 노드 반환
+    if parent[x] != x: # 자기 자신이 루트 노드가 아니라면
+        parent[x] = find(parent[x]) # 부모 노드를 찾아서 갱신
+    return parent[x] # 자기 자신이 루트 노드라면 그대로 반환
 
 # x가 속해있는 집합과 y가 속해있는 집합 합치기
-def union(x,y):
-    x = find(x) # x의 루트
-    y = find(y) # y의 루트
+def union(x, y):
+    x = find(x)  # x의 루트
+    y = find(y)  # y의 루트
 
-    if x == y:
-        return # 이미 동일한 집합
-    if x < y: # 서로 루트가 다르면 주 집합 합치기
+    # 서로 루트가 다르면 주 집합 합치기
+    if x < y:
         parent[y] = x
     else:
         parent[x] = y
+answer = 0
+for v,e,h in edges:
+    if find(v) != find(e):
+        union(v,e)
+        answer+=h
+print(answer)
