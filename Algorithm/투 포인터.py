@@ -17,3 +17,20 @@ while start < end:
         print(start, end)
         start += 1
         end -= 1
+
+array = [1, 2, 3, 4, 5, 6]
+array.sort()
+
+count = 0
+target = 6
+interval_sum = 0
+end = 0
+
+for start in range(len(array)):
+    while interval_sum < target and end < len(array):
+        interval_sum += array[end]
+        end += 1
+    if interval_sum == target:
+        count += 1
+    interval_sum -= array[start]
+print(count)
