@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.__getitem__" />
+          <option value="dict.get" />
+          <option value="typing.Iterator.__setitem__" />
+          <option value="dict.sort" />
+          <option value="list.values" />
+          <option value="list.strip" />
+          <option value="typing.KeysView.__getitem__" />
+          <option value="list.sorted" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
