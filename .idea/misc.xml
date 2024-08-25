@@ -6,7 +6,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <type id="django" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (CodingTestStudy)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (CodingTestStudy)" project-jdk-type="Python SDK" />
   <component name="PyCharmProfessionalAdvertiser">
     <option name="shown" value="true" />
   </component>
