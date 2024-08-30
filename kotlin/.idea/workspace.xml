@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.그대로_출력하기Kt">
+  <component name="RunManager" selected="Kotlin.세_수Kt">
     <configuration name="입출력Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="입출력Kt" />
       <module name="kotlin" />
@@ -81,6 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="세_수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기초.세_수Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="그대로_출력하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="기초.그대로_출력하기Kt" />
       <module name="kotlin" />
@@ -97,7 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.그대로_출력하기Kt" />
+        <item itemvalue="Kotlin.세_수Kt" />
         <item itemvalue="Kotlin.꼬마_정민Kt" />
         <item itemvalue="Kotlin.입출력Kt" />
       </list>
@@ -119,7 +126,7 @@
       <workItem from="1724661200002" duration="1330000" />
       <workItem from="1724767832576" duration="1126000" />
       <workItem from="1724818214267" duration="1000" />
-      <workItem from="1724935939677" duration="519000" />
+      <workItem from="1724935939677" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
