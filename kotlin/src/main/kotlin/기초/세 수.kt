@@ -6,3 +6,8 @@ fun main() = with(System.`in`.bufferedReader()){
         .sortedBy { it }
     println(b)
 }
+companion object {
+    fun getIntent(context: Context): Intent {
+        return Intent(context, ClubAddActivity::class.java)
+    }
+}

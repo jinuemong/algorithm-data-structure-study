@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.세_수Kt">
+  <component name="RunManager" selected="Kotlin.꼬마_정민Kt">
     <configuration name="입출력Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="입출력Kt" />
       <module name="kotlin" />
@@ -104,7 +104,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.세_수Kt" />
         <item itemvalue="Kotlin.꼬마_정민Kt" />
         <item itemvalue="Kotlin.입출력Kt" />
       </list>
@@ -127,6 +126,9 @@
       <workItem from="1724767832576" duration="1126000" />
       <workItem from="1724818214267" duration="1000" />
       <workItem from="1724935939677" duration="536000" />
+      <workItem from="1724999619288" duration="251000" />
+      <workItem from="1725003580606" duration="438000" />
+      <workItem from="1725016933077" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
