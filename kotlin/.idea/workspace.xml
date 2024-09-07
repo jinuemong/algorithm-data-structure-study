@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.세로읽기Kt">
+  <component name="RunManager" selected="Kotlin.꼬마_정민Kt">
     <configuration name="입출력Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="입출력Kt" />
       <module name="kotlin" />
@@ -125,7 +125,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.세로읽기Kt" />
         <item itemvalue="Kotlin.꼬마_정민Kt" />
         <item itemvalue="Kotlin.입출력Kt" />
       </list>
