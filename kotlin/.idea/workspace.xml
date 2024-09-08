@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -52,7 +53,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.꼬마_정민Kt">
+  <component name="RunManager" selected="Kotlin.부녀회장이_될테야Kt">
     <configuration name="입출력Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="입출력Kt" />
       <module name="kotlin" />
@@ -95,6 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="부녀회장이_될테야Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기초.부녀회장이_될테야Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="일곱_난쟁이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="기초.일곱_난쟁이Kt" />
       <module name="kotlin" />
@@ -125,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.부녀회장이_될테야Kt" />
         <item itemvalue="Kotlin.꼬마_정민Kt" />
         <item itemvalue="Kotlin.입출력Kt" />
       </list>
@@ -154,6 +163,8 @@
       <workItem from="1725169707099" duration="1702000" />
       <workItem from="1725281924734" duration="3196000" />
       <workItem from="1725408731410" duration="1325000" />
+      <workItem from="1725617095453" duration="627000" />
+      <workItem from="1725802555364" duration="1314000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
@@ -183,5 +194,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="코틀린 기초 문법" />
     <option name="LAST_COMMIT_MESSAGE" value="코틀린 기초 문법" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/기초/부녀회장이 될테야.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

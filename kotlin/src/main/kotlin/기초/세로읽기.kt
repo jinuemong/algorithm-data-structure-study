@@ -19,9 +19,3 @@ fun main() = with(System.`in`.bufferedReader()) {
     }
     print(result)
 }
-
-class MainFragment constructor(
-    private val tag: String,
-): Fragment(){
-
-}
