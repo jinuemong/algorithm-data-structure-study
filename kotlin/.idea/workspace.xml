@@ -53,9 +53,23 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.약수들의_합Kt">
+  <component name="RunManager" selected="Kotlin.괄호Kt">
     <configuration name="입출력Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="입출력Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="괄호Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.괄호Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.문자열Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,6 +105,13 @@
     </configuration>
     <configuration name="꼬마_정민Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="기초.꼬마_정민Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="학생_번호Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.학생_번호Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,7 +161,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.약수들의_합Kt" />
+        <item itemvalue="Kotlin.괄호Kt" />
         <item itemvalue="Kotlin.꼬마_정민Kt" />
         <item itemvalue="Kotlin.입출력Kt" />
       </list>
@@ -172,7 +193,11 @@
       <workItem from="1725408731410" duration="1325000" />
       <workItem from="1725617095453" duration="627000" />
       <workItem from="1725802555364" duration="1314000" />
-      <workItem from="1726239752128" duration="1611000" />
+      <workItem from="1726239752128" duration="1985000" />
+      <workItem from="1726280163660" duration="2924000" />
+      <workItem from="1726372546251" duration="2112000" />
+      <workItem from="1726498527695" duration="625000" />
+      <workItem from="1726636541607" duration="1248000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
