@@ -56,9 +56,22 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.단어_뒤집기">
+  <component name="RunManager" selected="Application.ATM">
     <configuration name="뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_그리디.뒤집기" />
+      <module name="kotlin+java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.ATM" />
       <module name="kotlin+java" />
       <extension name="coverage">
         <pattern>
@@ -96,9 +109,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="개미Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.개미Kt" />
-      <module name="kotlin" />
+    <configuration name="팰린드롬_만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.팰린드롬_만들기" />
+      <module name="kotlin+java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,20 +166,6 @@
     </configuration>
     <configuration name="문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_문자열.문자열Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="동전_0Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.동전_0Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="균형잡힌_세상Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.균형잡힌_세상Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -215,20 +220,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="단어_뒤집기_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.단어_뒤집기_2Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ATM" />
+        <item itemvalue="Application.팰린드롬_만들기" />
         <item itemvalue="Application.단어_뒤집기" />
         <item itemvalue="Application.뒤집기" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Kotlin.동전_0Kt" />
-        <item itemvalue="Kotlin.단어_뒤집기_2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +271,7 @@
       <workItem from="1727265122829" duration="95000" />
       <workItem from="1727267422801" duration="1514000" />
       <workItem from="1727268945573" duration="170000" />
+      <workItem from="1727329961227" duration="7467000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
