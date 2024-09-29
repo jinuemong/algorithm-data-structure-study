@@ -56,9 +56,22 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ATM">
-    <configuration name="뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.뒤집기" />
+  <component name="RunManager" selected="Application.안녕">
+    <configuration name="안녕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.안녕" />
+      <module name="kotlin+java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_다이나믹프로그래밍.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="로프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.로프" />
       <module name="kotlin+java" />
       <extension name="coverage">
         <pattern>
@@ -83,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.Main" />
+    <configuration name="단어_뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.단어_뒤집기" />
       <module name="kotlin+java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_그리디.*" />
+          <option name="PATTERN" value="_문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="단어_뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.단어_뒤집기" />
+    <configuration name="뒤집힌_덧셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.뒤집힌_덧셈" />
       <module name="kotlin+java" />
       <extension name="coverage">
         <pattern>
@@ -122,16 +135,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="자료구조Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="그래프Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그래프Kt" />
-      <module name="kotlin" />
+    <configuration name="뱀과_사다리_게임" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그래프.뱀과_사다리_게임" />
+      <module name="kotlin+java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_그래프.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,20 +178,6 @@
     </configuration>
     <configuration name="문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_문자열.문자열Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="학생_번호Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.학생_번호Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="약수들의_합Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.약수들의_합Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.안녕" />
+        <item itemvalue="Application.로프" />
+        <item itemvalue="Application.뱀과_사다리_게임" />
         <item itemvalue="Application.ATM" />
-        <item itemvalue="Application.팰린드롬_만들기" />
         <item itemvalue="Application.단어_뒤집기" />
-        <item itemvalue="Application.뒤집기" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +269,10 @@
       <workItem from="1727265122829" duration="95000" />
       <workItem from="1727267422801" duration="1514000" />
       <workItem from="1727268945573" duration="170000" />
-      <workItem from="1727329961227" duration="7467000" />
+      <workItem from="1727329961227" duration="15181000" />
+      <workItem from="1727354455648" duration="3346000" />
+      <workItem from="1727526951407" duration="652000" />
+      <workItem from="1727589266673" duration="14100000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
@@ -309,6 +310,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin+java/기초/부녀회장이 될테야.kt</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin+java/_문자열/단어_뒤집기.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
