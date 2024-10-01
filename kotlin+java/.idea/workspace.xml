@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -52,30 +52,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_그리디" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/_그리디" />
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.안녕">
+  <component name="RunManager" selected="Kotlin.팔Kt">
     <configuration name="안녕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.안녕" />
       <module name="kotlin+java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_다이나믹프로그래밍.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="로프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.로프" />
-      <module name="kotlin+java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="단어_뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.단어_뒤집기" />
+    <configuration name="로프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.로프" />
       <module name="kotlin+java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_문자열.*" />
+          <option name="PATTERN" value="_그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,9 +136,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="정사각형Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_기하학.정사각형Kt" />
-      <module name="kotlin" />
+    <configuration name="행렬Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.행렬Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="팔Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.팔Kt" />
+      <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,13 +173,6 @@
     </configuration>
     <configuration name="문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_문자열.문자열Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="부녀회장이_될테야Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.부녀회장이_될테야Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.팔Kt" />
+        <item itemvalue="Kotlin.행렬Kt" />
         <item itemvalue="Application.안녕" />
-        <item itemvalue="Application.로프" />
         <item itemvalue="Application.뱀과_사다리_게임" />
         <item itemvalue="Application.ATM" />
-        <item itemvalue="Application.단어_뒤집기" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +260,9 @@
       <workItem from="1727329961227" duration="15181000" />
       <workItem from="1727354455648" duration="3346000" />
       <workItem from="1727526951407" duration="652000" />
-      <workItem from="1727589266673" duration="14100000" />
+      <workItem from="1727589266673" duration="17353000" />
+      <workItem from="1727684227273" duration="1000" />
+      <workItem from="1727760429844" duration="11062000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
