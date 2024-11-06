@@ -59,7 +59,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.음식물_피하기Kt">
+  <component name="RunManager" selected="Application.로프">
     <configuration name="로프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_그리디.로프" />
       <module name="kotlin+java" />
@@ -75,6 +75,20 @@
     </configuration>
     <configuration name="오목Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_구현.오목Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="토너먼트Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_구현.토너먼트Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자놀이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그래프.숫자놀이Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,15 +143,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="X_숫자놀이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그래프.X_숫자놀이Kt" />
+    <configuration name="안정적인_문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.안정적인_문자열Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="안정적인_문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.안정적인_문자열Kt" />
+    <configuration name="파일_정리Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.파일_정리Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -194,10 +208,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.음식물_피하기Kt" />
-        <item itemvalue="Kotlin.X_숫자놀이Kt" />
-        <item itemvalue="Kotlin.오목Kt" />
         <item itemvalue="Application.로프" />
+        <item itemvalue="Kotlin.오목Kt" />
         <item itemvalue="Kotlin.안정적인_문자열Kt" />
       </list>
     </recent_temporary>
@@ -251,6 +263,17 @@
       <workItem from="1727760429844" duration="26071000" />
       <workItem from="1727924460344" duration="9166000" />
       <workItem from="1728008795833" duration="14920000" />
+      <workItem from="1728054531858" duration="3163000" />
+      <workItem from="1728123837788" duration="173000" />
+      <workItem from="1728198977970" duration="2329000" />
+      <workItem from="1728313207872" duration="603000" />
+      <workItem from="1730615001736" duration="2000" />
+      <workItem from="1730615009826" duration="28000" />
+      <workItem from="1730615043774" duration="17000" />
+      <workItem from="1730615066484" duration="636000" />
+      <workItem from="1730712000971" duration="91000" />
+      <workItem from="1730718302628" duration="39000" />
+      <workItem from="1730718699266" duration="13648000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />

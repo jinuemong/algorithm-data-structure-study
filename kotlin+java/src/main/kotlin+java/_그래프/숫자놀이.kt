@@ -38,10 +38,32 @@ package _그래프
 //
 //}
 
-fun main(){
+fun main() {
     readlnOrNull()?.toInt() ?: return
-    val nums = readlnOrNull()?.split(" ")?.map{it.toInt()}?: return
+    val nums = readlnOrNull()?.split(" ")?.map { it.toInt() } ?: return
     val k = readlnOrNull()?.toInt() ?: return
-    var holsoonWin = true
-    var step = 1
+    val dp = Array(50 * 1000+1) { 0 }
+    for (num in nums){
+        dp[num] = 1
+    }
+    for (i in 1 until dp.size){
+        for (num in nums){
+            if (dp[i]+1 > k || i+num >= dp.size || dp[i]==0) continue
+            if (dp[i+num]==0){
+                dp[i+num] = dp[i] +1
+            } else {
+                dp[i+num] = minOf(dp[i] +1,dp[i+num])
+            }
+        }
+    }
+    for (i in 1 until dp.size){
+        if (dp[i] == 0){
+            if (i %2 == 0){
+                println("holsoon win at $i")
+            }else {
+                println("jjaksoon win at $i")
+            }
+            break
+        }
+    }
 }
