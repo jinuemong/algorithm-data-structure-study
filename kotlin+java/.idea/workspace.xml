@@ -59,7 +59,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.로프">
+  <component name="RunManager" selected="Kotlin.Majority_ElementKt">
     <configuration name="로프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_그리디.로프" />
       <module name="kotlin+java" />
@@ -76,6 +76,13 @@
     <configuration name="오목Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_구현.오목Kt" />
       <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.문자열Kt" />
+      <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,9 +143,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.문자열Kt" />
-      <module name="kotlin" />
+    <configuration name="Majority_ElementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Top_Interview.Majority_ElementKt" />
+      <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -208,6 +215,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Majority_ElementKt" />
         <item itemvalue="Application.로프" />
         <item itemvalue="Kotlin.오목Kt" />
         <item itemvalue="Kotlin.안정적인_문자열Kt" />
@@ -273,7 +281,8 @@
       <workItem from="1730615066484" duration="636000" />
       <workItem from="1730712000971" duration="91000" />
       <workItem from="1730718302628" duration="39000" />
-      <workItem from="1730718699266" duration="13648000" />
+      <workItem from="1730718699266" duration="19336000" />
+      <workItem from="1730911512658" duration="8425000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
