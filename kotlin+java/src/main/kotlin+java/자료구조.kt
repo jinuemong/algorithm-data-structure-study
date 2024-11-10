@@ -8,7 +8,6 @@ fun main() {
 
     val arr2 = IntArray(4) { 0 }
     val arr3 = IntArray(4) { it * 2 } //it = index
-
     print(arr3.contentToString())
 
     // 다차원 배열

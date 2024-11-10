@@ -19,6 +19,7 @@ fun preOrderTraversal(node: Node?){
 }
 
 fun inOrderTraversal(node: Node?){
+
     if (node == null) return
     inOrderTraversal(node.left)
     print("${node.value}")
@@ -33,7 +34,6 @@ fun postOrderTraversal(node: Node?){
 }
 
 fun main(){
-    
     val a = Node(1)
     val b = Node(2)
     val c = Node(3)
