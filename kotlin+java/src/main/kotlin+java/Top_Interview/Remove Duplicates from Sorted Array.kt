@@ -10,6 +10,7 @@ fun removeDuplicates(nums: IntArray): Int {
         }
     }
 
+
     // prev : [1,1,2]
     // next : [1,2,2]
     return numsSet.size

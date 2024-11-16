@@ -6,6 +6,7 @@ fun mySqrt(x: Int): Int {
     if (x == 0) return 0
     var start = 1
     var end = x / 2 + 1
+
     // In this expression, end is initialized to x / 2 + 1
     // to define the upper bound of the search range for the square root.
     while (start <= end) {

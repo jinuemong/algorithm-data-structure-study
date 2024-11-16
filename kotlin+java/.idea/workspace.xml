@@ -59,7 +59,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Test20241111Kt">
+  <component name="RunManager" selected="Kotlin.자료구조Kt">
     <configuration name="로프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_그리디.로프" />
       <module name="kotlin+java" />
@@ -73,8 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="오목Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_구현.오목Kt" />
+    <configuration name="자료구조Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="입출력Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="입출력Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -164,13 +171,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="파일_정리Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.파일_정리Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="음식물_피하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_그래프.음식물_피하기Kt" />
       <module name="kotlin+java" />
@@ -222,11 +222,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.자료구조Kt" />
         <item itemvalue="Kotlin.Test20241111Kt" />
-        <item itemvalue="Kotlin.그래프Kt" />
         <item itemvalue="Kotlin.Majority_ElementKt" />
         <item itemvalue="Application.로프" />
-        <item itemvalue="Kotlin.오목Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -292,6 +291,22 @@
       <workItem from="1730718699266" duration="19336000" />
       <workItem from="1730911512658" duration="8425000" />
       <workItem from="1730988012684" duration="26945000" />
+      <workItem from="1731298628039" duration="23000" />
+      <workItem from="1731330699032" duration="675000" />
+      <workItem from="1731331616767" duration="11000" />
+      <workItem from="1731331852086" duration="10000" />
+      <workItem from="1731332413169" duration="121000" />
+      <workItem from="1731335233846" duration="71000" />
+      <workItem from="1731401393667" duration="1053000" />
+      <workItem from="1731405360675" duration="614000" />
+      <workItem from="1731421581707" duration="607000" />
+      <workItem from="1731482795336" duration="2149000" />
+      <workItem from="1731493612455" duration="3879000" />
+      <workItem from="1731568886093" duration="740000" />
+      <workItem from="1731634818436" duration="3297000" />
+      <workItem from="1731653421709" duration="5000" />
+      <workItem from="1731660992131" duration="6000" />
+      <workItem from="1731740937277" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
