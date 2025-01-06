@@ -60,9 +60,44 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.소수_팰린드롬Kt">
+  <component name="RunManager" selected="Kotlin.부등호Kt">
     <configuration name="자료구조Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자료구조Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="부등호Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="부등호Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="토너먼트Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_구현.토너먼트Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자놀이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그래프.숫자놀이Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="피보나치Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.피보나치Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="팔Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.팔Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,34 +155,6 @@
     <configuration name="문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_문자열.문자열Kt" />
       <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="토너먼트Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_구현.토너먼트Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="숫자놀이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그래프.숫자놀이Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="피보나치Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.피보나치Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="팔Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.팔Kt" />
-      <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,8 +231,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.소수_팰린드롬Kt" />
-        <item itemvalue="Kotlin.동물원Kt" />
+        <item itemvalue="Kotlin.부등호Kt" />
         <item itemvalue="Kotlin._1_2_3_더하기_5Kt" />
         <item itemvalue="Kotlin.요세푸스_문제Kt" />
         <item itemvalue="Kotlin.자료구조Kt" />
@@ -321,7 +327,8 @@
       <workItem from="1735470025972" duration="4524000" />
       <workItem from="1735542448321" duration="6294000" />
       <workItem from="1735704227210" duration="4114000" />
-      <workItem from="1735798597114" duration="6749000" />
+      <workItem from="1735798597114" duration="7234000" />
+      <workItem from="1736149589742" duration="6508000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
