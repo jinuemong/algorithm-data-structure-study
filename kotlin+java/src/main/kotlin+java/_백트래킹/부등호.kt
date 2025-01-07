@@ -1,3 +1,5 @@
+package _백트래킹
+
 fun main() {
     val n = readlnOrNull()?.toInt() ?: return
     val ex = readlnOrNull()
