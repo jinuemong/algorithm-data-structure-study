@@ -1,4 +1,4 @@
-
+package _그래프
 fun main(){
     val (n,m) = readlnOrNull()?.split(" ")?.map{it.toInt()} ?: return
     val box = Array(n){

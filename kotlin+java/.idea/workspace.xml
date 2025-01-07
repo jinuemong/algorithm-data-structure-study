@@ -54,30 +54,23 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_그래프" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_구현" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_백트래킹" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_다이나믹프로그래밍" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_그리디" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/_그리디" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.빙산Kt">
+  <component name="RunManager" selected="Kotlin.해킹Kt">
     <configuration name="빙산Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="빙산Kt" />
+      <option name="MAIN_CLASS_NAME" value="_그래프.빙산Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="부등호Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_백트래킹.부등호Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="최대공약수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_구현.최대공약수Kt" />
+    <configuration name="해킹Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해킹Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -167,6 +160,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="부등호Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_백트래킹.부등호Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="최대공약수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_구현.최대공약수Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_1_2_3_더하기_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍._1_2_3_더하기_5Kt" />
       <module name="kotlin+java" />
@@ -239,9 +246,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.해킹Kt" />
         <item itemvalue="Kotlin.빙산Kt" />
-        <item itemvalue="Kotlin.최대공약수Kt" />
-        <item itemvalue="Kotlin.부등호Kt" />
         <item itemvalue="Kotlin._1_2_3_더하기_5Kt" />
         <item itemvalue="Kotlin.요세푸스_문제Kt" />
       </list>
@@ -337,7 +343,8 @@
       <workItem from="1735542448321" duration="6294000" />
       <workItem from="1735704227210" duration="4114000" />
       <workItem from="1735798597114" duration="7234000" />
-      <workItem from="1736149589742" duration="24345000" />
+      <workItem from="1736149589742" duration="25403000" />
+      <workItem from="1736243621574" duration="3866000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
