@@ -1,3 +1,5 @@
+package _최단경로
+
 fun main() {
     repeat(readlnOrNull()?.toInt() ?: return) {
         val (n, d, c) = readlnOrNull()?.split(" ")?.map { it.toInt() } ?: return
