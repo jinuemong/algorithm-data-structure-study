@@ -45,6 +45,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -54,16 +55,58 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_구현" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_백트래킹" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_다이나믹프로그래밍" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_구현" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_그래프" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_우선순위큐" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1_2_3_더하기_5Kt">
-    <configuration name="피보나치Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.피보나치Kt" />
+  <component name="RunManager" selected="Kotlin.마법사_상어와_토네이도Kt">
+    <configuration name="자료구조Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="최대공약수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_구현.최대공약수Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="해킹Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해킹Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="토너먼트Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_구현.토너먼트Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자놀이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그래프.숫자놀이Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="연구소Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그래프.연구소Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="팔Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.팔Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,48 +175,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최대공약수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_구현.최대공약수Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="해킹Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="해킹Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="토너먼트Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_구현.토너먼트Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="숫자놀이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그래프.숫자놀이Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="연구소Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그래프.연구소Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="팔Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.팔Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_1_2_3_더하기_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍._1_2_3_더하기_5Kt" />
       <module name="kotlin+java" />
@@ -184,6 +185,27 @@
     <configuration name="극장_좌석Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.극장_좌석Kt" />
       <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="단축키_지정Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.단축키_지정Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="일곱_난쟁이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기초.일곱_난쟁이Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="세_수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기초.세_수Kt" />
+      <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -230,29 +252,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="단축키_지정Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.단축키_지정Kt" />
+    <configuration name="카드_합체_놀이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_우선순위큐.카드_합체_놀이Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="일곱_난쟁이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.일곱_난쟁이Kt" />
-      <module name="kotlin" />
+    <configuration name="마법사_상어와_토네이도Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="마법사_상어와_토네이도Kt" />
+      <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="세_수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.세_수Kt" />
-      <module name="kotlin" />
+    <configuration name="미세먼지_안녕_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_구현.미세먼지_안녕_Kt" />
+      <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="카드_합체_놀이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_우선순위큐.카드_합체_놀이Kt" />
+    <configuration name="미세먼지_안녕_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="미세먼지_안녕_Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -281,7 +303,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.마법사_상어와_토네이도Kt" />
         <item itemvalue="Kotlin._1_2_3_더하기_5Kt" />
+        <item itemvalue="Kotlin.자료구조Kt" />
         <item itemvalue="Kotlin.극장_좌석Kt" />
         <item itemvalue="Kotlin.카드_합체_놀이Kt" />
       </list>
@@ -389,6 +413,9 @@
       <workItem from="1737519945300" duration="10748000" />
       <workItem from="1737548918075" duration="3493000" />
       <workItem from="1737552425173" duration="5000" />
+      <workItem from="1737612227330" duration="4261000" />
+      <workItem from="1737617211539" duration="2916000" />
+      <workItem from="1737624397134" duration="8970000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
@@ -426,6 +453,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin+java/기초/부녀회장이 될테야.kt</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin+java/_백트래킹/로또.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin+java/_문자열/단어_뒤집기.java</url>
