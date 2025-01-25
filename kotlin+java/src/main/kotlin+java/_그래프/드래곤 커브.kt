@@ -1,18 +1,18 @@
-
+package _그래프
 fun main(){
     val di = listOf(
-        0 to 1,
-        -1 to 0,
-        0 to -1,
         1 to 0,
+        0 to -1,
+        -1 to 0,
+        0 to 1,
     )//di를 거꾸로 가면 반시계
 
     val n = readlnOrNull()?.toInt()?: return
     val curve = Array(n){
         readlnOrNull()?.split(" ")?.map{it.toInt()} ?: return
     }
-    val graph = Array(n+1){
-        BooleanArray(n+1){ false }
+    val graph = Array(101){
+        BooleanArray(101){ false }
     }
     curve.forEach {
         var (x,y) = it[0] to it[1]
@@ -22,7 +22,7 @@ fun main(){
             val newList = mutableListOf<Int>()
             newList.addAll(diList)
             for (i in diList.lastIndex downTo 0){
-                val next = (diList[i] - 1 + 4)%4
+                val next = (diList[i] + 1 + 4)%4
                 newList.add(next)
             }
             diList = newList
@@ -35,14 +35,14 @@ fun main(){
         }
     }
     var count = 0
-    for (i in 0..n-2){
-        for (j in 0 .. n-2){
+    for (i in 0..99){
+        for (j in 0 .. 99){
             val isTrue = listOf(
                 graph[i][j],
                 graph[i+1][j],
                 graph[i][j+1],
                 graph[i+1][j+1]
-            ).any{it}
+            ).all{it}
             if(isTrue) count++
         }
     }
