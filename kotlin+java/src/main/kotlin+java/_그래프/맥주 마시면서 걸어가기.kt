@@ -1,3 +1,5 @@
+package _그래프
+
 import kotlin.math.abs
 
 fun main() {
