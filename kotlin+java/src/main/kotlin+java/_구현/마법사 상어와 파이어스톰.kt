@@ -1,3 +1,5 @@
+package _구현
+
 import kotlin.math.pow
 
 fun main() {
