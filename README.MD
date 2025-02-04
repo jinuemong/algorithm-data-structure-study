@@ -1,7 +1,9 @@
 # Algorithm & Data Structure
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn5116)](https://solved.ac/wlsdn5116/)
+
 - 코틀린 & 파이썬을 활용한 알고리즘과 자료구조 스터디를 진행합니다.
 - 주 7개 문제 해결을 목표로 합니다.
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn5116)](https://solved.ac/wlsdn5116/)
 
 ## 코틀린
 - [구현](https://github.com/jinuemong/algorithm-data-structure-study/tree/master/kotlin%2Bjava/src/main/kotlin%2Bjava/_%EA%B5%AC%ED%98%84)
