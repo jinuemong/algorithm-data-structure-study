@@ -55,23 +55,23 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_행렬" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_최단경로" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_이분탐색" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_다이나믹프로그래밍" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_위상정렬" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_이분탐색" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_구현" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_행렬" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.본대_산책3Kt">
-    <configuration name="ACKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.ACKt" />
+  <component name="RunManager" selected="Kotlin.작업Kt">
+    <configuration name="파티Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_최단경로.파티Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="음악프로그램Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_위상정렬.음악프로그램Kt" />
+    <configuration name="작업Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="작업Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -203,15 +203,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="본대_산책1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.본대_산책1Kt" />
+    <configuration name="LIS_알고리즘Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LIS_알고리즘Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="본대_산책3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_행렬.본대_산책3Kt" />
+    <configuration name="과자_나눠주기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_이분탐색.과자_나눠주기Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -343,13 +343,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="두_수의_합Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_이분탐색.두_수의_합Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="인간_컴퓨터_상호작용Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_구현.인간_컴퓨터_상호작용Kt" />
       <module name="kotlin+java" />
@@ -357,13 +350,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="가장_긴_증가하는_부분_수열_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_이분탐색.가장_긴_증가하는_부분_수열_2Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.본대_산책3Kt" />
-        <item itemvalue="Kotlin.본대_산책1Kt" />
-        <item itemvalue="Kotlin.음악프로그램Kt" />
-        <item itemvalue="Kotlin.두_수의_합Kt" />
-        <item itemvalue="Kotlin.ACKt" />
+        <item itemvalue="Kotlin.작업Kt" />
+        <item itemvalue="Kotlin.파티Kt" />
+        <item itemvalue="Kotlin.과자_나눠주기Kt" />
+        <item itemvalue="Kotlin.가장_긴_증가하는_부분_수열_2Kt" />
+        <item itemvalue="Kotlin.LIS_알고리즘Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -488,7 +488,7 @@
       <workItem from="1738598148082" duration="17559000" />
       <workItem from="1738679602611" duration="21019000" />
       <workItem from="1738768216580" duration="2515000" />
-      <workItem from="1738821597462" duration="13282000" />
+      <workItem from="1738821597462" duration="48786000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
