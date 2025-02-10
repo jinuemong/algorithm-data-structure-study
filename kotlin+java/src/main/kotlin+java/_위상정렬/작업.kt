@@ -1,4 +1,4 @@
-
+package _위상정렬
 // i+1번째 작업을 진행하기 위해서는 list[0]의 시간이 소요
 // i+1번째 작업을 진행하기 list[1] 수의 작업을 완료해야 함
 // i+1번째 작업을 진행하기 위해서는 list[2...x]의 작업이 이미 종료되어야 한다
@@ -36,9 +36,9 @@ fun main() {
         val current = que.removeFirst()
         for (next in graph[current]){
             inDegree[next]-=1
+            weight[next] = maxOf(weight[next],weight[current]+ time[next])
             if (inDegree[next]==0){
                 que.add(next)
-                weight[next] = maxOf(weight[next],weight[current]+ time[next])
             }
         }
     }

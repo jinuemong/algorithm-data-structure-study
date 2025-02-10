@@ -1,3 +1,5 @@
+import java.util.PriorityQueue
+
 fun main() = with(System.`in`.bufferedReader()) {
     val integer = readLine().toInt()
 
@@ -19,4 +21,13 @@ fun main() = with(System.`in`.bufferedReader()) {
     val bw = System.out.bufferedWriter()
     bw.flush()
     bw.close()
+    val a=  arrayOf(
+        IntArray(4)
+    ).sortedWith (
+        compareBy { it[1] }
+    )
+    val que = PriorityQueue<Pair<Int,Int>>(
+        compareBy{it.second}
+    )
+
 }
