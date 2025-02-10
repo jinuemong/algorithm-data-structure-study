@@ -2,7 +2,7 @@ package _그래프
 
 import java.util.PriorityQueue
 
-data class Man(val x: Int, val y: Int, val count: Int, val isSave: Boolean)
+data class FirstMan(val x: Int, val y: Int, val count: Int, val isSave: Boolean)
 
 fun main() {
     val di = listOf(
@@ -23,12 +23,12 @@ fun main() {
     }
 
     val end = n - 1 to m - 1
-    val que = PriorityQueue<Man>(
+    val que = PriorityQueue<FirstMan>(
         compareBy { it.count }
     )
     // 시작은 벽을 부수지 않음
     dp[0][0][0] = 1
-    que.add(Man(0, 0, 1, false))
+    que.add(FirstMan(0, 0, 1, false))
     while (que.isNotEmpty()) {
         val man = que.poll()
         if (man.x == end.first && man.y == end.second) {
@@ -41,15 +41,15 @@ fun main() {
                 val wallState = if(man.isSave) 1 else 0
                 // 벽을 부수지 않고 이동
                 if (!isWall && dp[nx][ny][wallState] > man.count+1) {
-                    val nextMan = Man(nx, ny, man.count + 1, man.isSave)
-                    que.add(nextMan)
-                    dp[nx][ny][wallState] = nextMan.count
+                    val nextFirstMan = FirstMan(nx, ny, man.count + 1, man.isSave)
+                    que.add(nextFirstMan)
+                    dp[nx][ny][wallState] = nextFirstMan.count
                 }
                 // 벽을 부수고 이동 + 아직 벽을 부수지 않음
                 if (isWall && !man.isSave && dp[nx][ny][1] > man.count+1) {
-                    val brokenMan = Man(nx, ny, man.count + 1, true)
-                    que.add(brokenMan)
-                    dp[nx][ny][1]= brokenMan.count
+                    val brokenFirstMan = FirstMan(nx, ny, man.count + 1, true)
+                    que.add(brokenFirstMan)
+                    dp[nx][ny][1]= brokenFirstMan.count
                 }
             }
         }
