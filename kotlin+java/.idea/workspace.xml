@@ -62,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_최단경로" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.벽_부수고_이동하기_3Kt">
+  <component name="RunManager" selected="Kotlin.암벽_등반Kt">
     <configuration name="Dance_Dance_RevolutionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.Dance_Dance_RevolutionKt" />
       <module name="kotlin+java" />
@@ -70,9 +70,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="문자열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.문자열Kt" />
-      <module name="kotlin" />
+    <configuration name="해킹Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="해킹Kt" />
+      <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,13 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="괄호Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.괄호Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="입출력Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="입출력Kt" />
       <module name="kotlin+java" />
@@ -196,22 +189,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="해킹Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="해킹Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RGB거리_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.RGB거리_2Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="차이를_최대로Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_백트래킹.차이를_최대로Kt" />
+    <configuration name="암벽_등반Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그래프.암벽_등반Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -268,13 +247,6 @@
     </configuration>
     <configuration name="그대로_출력하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="기초.그대로_출력하기Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="분산_처리Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.분산_처리Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -343,6 +315,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="벽_부수고_이동하기_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그래프.벽_부수고_이동하기_2Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="벽_부수고_이동하기_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_그래프.벽_부수고_이동하기_3Kt" />
       <module name="kotlin+java" />
@@ -350,20 +329,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="벽_부수고_이동하기_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그래프.벽_부수고_이동하기_4Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.암벽_등반Kt" />
+        <item itemvalue="Kotlin.벽_부수고_이동하기_2Kt" />
         <item itemvalue="Kotlin.벽_부수고_이동하기_3Kt" />
         <item itemvalue="Kotlin.벽_부수고_이동하기Kt" />
         <item itemvalue="Kotlin.Dance_Dance_RevolutionKt" />
-        <item itemvalue="Kotlin.벽_부수고_이동하기_4Kt" />
-        <item itemvalue="Kotlin.RGB거리_2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -494,6 +466,9 @@
       <workItem from="1739019840276" duration="6348000" />
       <workItem from="1739161015037" duration="5590000" />
       <workItem from="1739169975004" duration="8475000" />
+      <workItem from="1739178997091" duration="167000" />
+      <workItem from="1739245151929" duration="3249000" />
+      <workItem from="1739257992585" duration="4724000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
