@@ -19,19 +19,24 @@ fun main(){
     val visited = BooleanArray(n+1)
     for (i in 0.. graph.lastIndex){
         if (visited[i]) continue
+        val currentVisited = BooleanArray(n+1)
         val que = ArrayDeque<Int>()
         que.add(i)
         visited[i] = true
+        currentVisited[i] = true
         while (que.isNotEmpty()){
             val current = que.removeFirst()
             for (j in graph[current]){
                 if (!visited[j]){
                     que.add(j)
                     visited[j] = true
+                    currentVisited[j] = true
                 }
             }
         }
+        val isOk = di.all{currentVisited[it]}
+        if (isOk) return println("YES")
     }
-    val isOk = di.all{visited[it]}
-    println(if(isOk) "YES" else "NO")
+
+    println("NO")
 }

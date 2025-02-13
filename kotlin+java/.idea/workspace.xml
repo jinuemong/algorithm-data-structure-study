@@ -62,9 +62,16 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_최단경로" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.여행_가자Kt">
+  <component name="RunManager" selected="Kotlin.회장뽑기Kt">
     <configuration name="합분해Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.합분해Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="회장뽑기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="회장뽑기Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -189,6 +196,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="세_수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기초.세_수Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="그대로_출력하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기초.그대로_출력하기Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="여행_가자Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="여행_가자Kt" />
       <module name="kotlin+java" />
@@ -245,6 +266,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="여행_가자Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="여행_가자Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="줄_세우기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_위상정렬.줄_세우기Kt" />
       <module name="kotlin+java" />
@@ -294,20 +322,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="세_수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.세_수Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="그대로_출력하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.그대로_출력하기Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="벽_부수고_이동하기_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_그래프.벽_부수고_이동하기_2Kt" />
       <module name="kotlin+java" />
@@ -324,10 +338,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.여행_가자Kt" />
+        <item itemvalue="Kotlin.회장뽑기Kt" />
+        <item itemvalue="Kotlin.벽_부수고_이동하기_2Kt" />
         <item itemvalue="Kotlin.합분해Kt" />
         <item itemvalue="Kotlin.암벽_등반Kt" />
-        <item itemvalue="Kotlin.벽_부수고_이동하기_2Kt" />
         <item itemvalue="Kotlin.벽_부수고_이동하기_3Kt" />
       </list>
     </recent_temporary>
@@ -462,7 +476,9 @@
       <workItem from="1739178997091" duration="167000" />
       <workItem from="1739245151929" duration="3249000" />
       <workItem from="1739257992585" duration="4724000" />
-      <workItem from="1739344402015" duration="8301000" />
+      <workItem from="1739344402015" duration="8591000" />
+      <workItem from="1739371975733" duration="182000" />
+      <workItem from="1739411095942" duration="5446000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />
