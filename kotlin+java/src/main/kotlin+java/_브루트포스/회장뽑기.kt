@@ -1,3 +1,5 @@
+package _브루트포스
+
 import java.util.*
 
 fun main() {

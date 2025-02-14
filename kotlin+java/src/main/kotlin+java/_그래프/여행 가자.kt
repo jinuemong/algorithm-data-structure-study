@@ -1,4 +1,4 @@
-
+package _그래프
 fun main(){
     val n = readlnOrNull()?.toInt() ?: return
     val m = readlnOrNull()?.toInt() ?: return
