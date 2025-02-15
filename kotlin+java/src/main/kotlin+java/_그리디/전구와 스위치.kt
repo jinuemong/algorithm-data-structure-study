@@ -1,4 +1,5 @@
-package _그리디// 풀이 방법 : 첫 전구를 누르는가?
+package _그리디
+// 풀이 방법 : 첫 전구를 누르는가?
 // 첫 전구를 기준으로 가지 탐색
 // 이 후부터는 이전 전구를 목표와 다르지 않게 하도록 눌러가며 선택과 비선택 반복
 // 최종 도착했을 때 다르면 만들수 없음 !
@@ -12,6 +13,7 @@ fun main() {
         for (i in index - 1..index + 1) {
             if (i in arr.indices) arr[i] = arr[i] xor 1
         }
+
     }
 
     fun solve(startToggle: Boolean): Int {
