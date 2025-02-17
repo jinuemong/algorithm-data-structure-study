@@ -55,72 +55,16 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_최단경로" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_백트래킹" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_그리디" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_덱" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_우선순위큐" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_이분탐색" />
       <recent name="$PROJECT_DIR$/src/main/kotlin+java/_그래프" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_브루트포스" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin+java/_그리디" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.벽_부수고_이동하기_2Kt">
-    <configuration name="합분해Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.합분해Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="접두사Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.접두사Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이동하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.이동하기Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="공격Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그래프.공격Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="게임Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_이분탐색.게임Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이친수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.이친수Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="뱀Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="뱀Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="뒤집기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.뒤집기Kt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="작업Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_위상정렬.작업Kt" />
+  <component name="RunManager" selected="Kotlin.최소값_찾기Kt">
+    <configuration name="덱Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_덱.덱Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -196,6 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="접두사Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.접두사Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="숫자놀이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_그래프.숫자놀이Kt" />
       <module name="kotlin+java" />
@@ -210,65 +161,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="전구와_스위치Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그리디.전구와_스위치Kt" />
+    <configuration name="이동하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.이동하기Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="주사위_굴리기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_구현.주사위_굴리기Kt" />
+    <configuration name="공격Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그래프.공격Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="괄호의_값Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_스택.괄호의_값Kt" />
+    <configuration name="게임Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_이분탐색.게임Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="접두사_찾기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.접두사_찾기Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="타일_채우기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.타일_채우기Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="단축키_지정Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_문자열.단축키_지정Kt" />
-      <module name="kotlin+java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="일곱_난쟁이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.일곱_난쟁이Kt" />
+    <configuration name="이친수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.이친수Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="세_수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.세_수Kt" />
+    <configuration name="뱀Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="뱀Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="뒤집기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_그리디.뒤집기Kt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="그대로_출력하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기초.그대로_출력하기Kt" />
-      <module name="kotlin" />
+    <configuration name="작업Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_위상정렬.작업Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="휴게소_세우기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_이분탐색.휴게소_세우기Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="최소값_찾기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_덱.최소값_찾기Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="수_고르기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_이분탐색.수_고르기Kt" />
+      <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -343,6 +301,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="주사위_굴리기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_구현.주사위_굴리기Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="여행_가자Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="여행_가자Kt" />
       <module name="kotlin+java" />
@@ -357,8 +322,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="벽_부수고_이동하기_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_그래프.벽_부수고_이동하기_2Kt" />
+    <configuration name="괄호의_값Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_스택.괄호의_값Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="접두사_찾기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.접두사_찾기Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="타일_채우기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_다이나믹프로그래밍.타일_채우기Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="단축키_지정Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_문자열.단축키_지정Kt" />
+      <module name="kotlin+java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="일곱_난쟁이Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기초.일곱_난쟁이Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="세_수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기초.세_수Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="그대로_출력하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="기초.그대로_출력하기Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="가장_긴_짝수_연속한_부분_수열__large_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_이분탐색.가장_긴_짝수_연속한_부분_수열__large_Kt" />
       <module name="kotlin+java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -366,9 +380,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.전구와_스위치Kt" />
-        <item itemvalue="Kotlin.벽_부수고_이동하기_2Kt" />
-        <item itemvalue="Kotlin.합분해Kt" />
+        <item itemvalue="Kotlin.최소값_찾기Kt" />
+        <item itemvalue="Kotlin.덱Kt" />
+        <item itemvalue="Kotlin.휴게소_세우기Kt" />
+        <item itemvalue="Kotlin.수_고르기Kt" />
+        <item itemvalue="Kotlin.가장_긴_짝수_연속한_부분_수열__large_Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -509,6 +525,7 @@
       <workItem from="1739521415178" duration="12854000" />
       <workItem from="1739554028946" duration="12379000" />
       <workItem from="1739605366270" duration="31000" />
+      <workItem from="1739680913534" duration="31404000" />
     </task>
     <task id="LOCAL-00001" summary="코틀린 기초 문법">
       <option name="closed" value="true" />

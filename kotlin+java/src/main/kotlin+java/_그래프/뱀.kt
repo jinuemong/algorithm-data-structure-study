@@ -1,3 +1,5 @@
+package _그래프
+
 fun main() {
     val di = listOf(
         0 to 1,  // 오른쪽
