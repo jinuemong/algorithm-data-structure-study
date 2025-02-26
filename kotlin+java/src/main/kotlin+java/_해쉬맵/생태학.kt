@@ -1,4 +1,4 @@
-package _해쉬
+package _해쉬맵
 
 import java.util.*
 

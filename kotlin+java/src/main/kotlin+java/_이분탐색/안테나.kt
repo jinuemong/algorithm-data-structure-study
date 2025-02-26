@@ -1,3 +1,5 @@
+package _이분탐색
+
 fun main() {
     val n = readlnOrNull()?.toInt() ?: return
     val home = readlnOrNull()?.split(" ")?.map { it.toInt() }?.sorted() ?: return
